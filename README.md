@@ -54,8 +54,8 @@ User Query → AWS Lex → AWS Lambda (Fulfillment Codehook) → PostgreSQL Data
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/inquisitour/knowledge-based-agent-pgai.git
+   cd knowledge-based-agent-pgai
    ```
 
 2. **Install Dependencies**:
